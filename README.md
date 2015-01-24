@@ -120,4 +120,3 @@ For example if you've got a running ASP.NET website at `http://yourexamplesite.c
 ```
 
 After changing the config all that is left is configuring a Virtual Application with the same path(ex. `blog`) inside your IIS website.
-
